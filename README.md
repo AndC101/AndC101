@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndC101
 - 👀 I’m interested in building and making things!! 
-- 🌱 I’m currently learning web development in aspirations to build my own website and showcase side projects!
+- 🌱 I’m currently learning web development (and java) in aspirations to build my own website and showcase side projects!
 - 💞️ I’m looking to collaborate on making things and projects although I'm open to anything!
 - 📫 Send me a message at @AWrenchEnd#9539 on discord 
 
